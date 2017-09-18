@@ -1,4 +1,4 @@
-MM/DD/YYYY
+MM/DD/YYYY (latest posts will be on top)
 
 9/18/2017
 We learned how to convert our ER model to relational statements. The last ER diagram that we made from the previous class was used for practice making the relational statements.
