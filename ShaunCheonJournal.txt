@@ -1,4 +1,16 @@
 MM/DD/YYYY
 
+9/18/2017
+
+
+9/14/2017
+
+
+9/11/2017
+A jeopardy game was played as a sort-of assessment and review. The "examples" section was exceptionally hard as a lot of them required us to create ER diagrams for the situation given, or vice versa. One question is left unsolved.
+
+9/07/2017
+(first class) Ch3 homework questions were discussed. The relationships of weak entities that have degrees over two was explained, using Hotel and Hotel Rooms as examples. A vocab/terms game was then played to hone our understanding of key terms and concepts.
+
 9/04/2017
 Git created
