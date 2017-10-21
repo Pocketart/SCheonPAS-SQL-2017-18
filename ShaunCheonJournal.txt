@@ -4,6 +4,7 @@ MM/DD/YYYY (latest posts will be on top)
 Practiced actually using SQL on an online environment. Creating tables, setting primary and foreign keys. And then later doing basic queries on them as well as using modify delete and append commands.
 
 10/16/2017
+Differential privacy & Apple. What kind of normalization would be the most effecient database if the differential privacy was applied on it? Turns out it depends but 2NF is one that can work. The more tables there are, it would be less effecient for quereying. Assignment: turn pizza database into form that is most effecient.
 
 10/12/2017
 CH10 HW was due and it was discussed.
