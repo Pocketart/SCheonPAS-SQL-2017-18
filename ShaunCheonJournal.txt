@@ -1,6 +1,30 @@
 MM/DD/YYYY (latest posts will be on top)
 
 9/28/2017
+Functional Dependancies and Normalization. The point of normalization is to Reduce redundancy, null values, and anomalies. first NF: 
+Method 1:get rid of potential multiple things
+Method 2: reduce multi-values by turning it into another tuple instead
+Secund NF:
+MUST be in first NF in order to do second NF.
+break down into more
+NO MULTI, Everything has its own ID
+Third NF:
+NO multipvalues
+Everything have own IDs
+No Transtives
+Turn trasitive into its own table.
+Trivial FD
+A —> A
+You can tell what the student id is by looking at the student id
+useless because
+A,B —> A,C
+Don’t need the new A
+NonTrivial FD
+A—>B
+Transitive FD
+A —> B, B—> C 
+but B-x-> A
+and A—> C
 
 9/25/2017
 CH5 Homework discussion. IS-A relationships.
