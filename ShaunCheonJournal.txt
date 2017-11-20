@@ -1,5 +1,13 @@
 MM/DD/YYYY (latest posts will be on top)
 
+11/2/2017
+
+10/30/2017
+
+10/25/2017
+
+10/23/2017
+
 10/19/2017
 Practiced actually using SQL on an online environment. Creating tables, setting primary and foreign keys. And then later doing basic queries on them as well as using modify delete and append commands.
 
