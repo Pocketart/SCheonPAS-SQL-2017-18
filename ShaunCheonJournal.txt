@@ -1,14 +1,19 @@
 MM/DD/YYYY (latest posts will be on top)
 
+11/27/2017
+CodeAcademy. 
+
 11/23/2017
-MUN people are gone.
+MUN people are gone. Games. Oracle number game. There are numbers from 1 to 7, a player picks two and places one on a conditional card. The other players must guess what the other number is based on the player's decision where they placed their first card.
 
 11/20/2017
 no class
 
 11/16/2017
+Venn Diagrams were used to visualize Inner, Outer, Left, Right, and Cross joins. We tested them out using SQLFiddle on our stuco store database,
 
 11/13/2017
+Datacamp / Codeacademy catch up work.
 
 11/09/2017
 SQLfiddle was being a little funny, did Datacamp instead. The Datacamp lesson was not as well designed as the previous ones we did previously. It was basically a review of the querey commands we learned so far.
@@ -26,10 +31,10 @@ A             O T Y
 L             N
 
 11/02/2017
-Datacamp + Codeacademy
+Datacamp + Codeacademy catch up
 
 10/30/2017
-
+no
 
 10/25/2017
 SQLfiddle: Worked on more advanced queries, slightly annoying. Its like a querey inside a querey
