@@ -1,7 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 11/27/2017
-CodeAcademy. 
+CodeAcademy. Interestingly, there was this one question I couldn't do where even their solution doesn't pass. It has been reported.
 
 11/23/2017
 MUN people are gone. Games. Oracle number game. There are numbers from 1 to 7, a player picks two and places one on a conditional card. The other players must guess what the other number is based on the player's decision where they placed their first card.
