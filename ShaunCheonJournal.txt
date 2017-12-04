@@ -15,6 +15,7 @@ MM/DD/YYYY (latest posts will be on top)
 12/07/2017
 
 12/04/2017
+We discussed Chapter 6 HW questions.
 
 11/30/2017
 We had to install LibreOffice. Funny how I was already using it because I didn't want to dish out $399.99 for a text editing suite that can only be installed on one computer (unless I buy the entreprise edition). Using the Data tool, I created a replica of the G2 sheet. I initially had some issues trying to copy paste the data in, but Powei found a way to do it. (you had to right click the NAME OF THE FILE from the UI and then click paste, which is plain weird as opposed to just letting us paste into the spreadsheet cells)
