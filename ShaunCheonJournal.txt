@@ -1,15 +1,28 @@
 MM/DD/YYYY (latest posts will be on top)
 
 1/25/2018
-Set up xampp. Got the html part working but the php isn't set up yet.
+Mr.Ting showed us how the design thinking data the school collected is being reorganized for the sake of effeciency. This is why we need to plan a database (or at least plan what data will be collected and how it will be used) before collecting the data. This applies on everything in general, much of what we do can be more effeciently done if planned properly; our school should take that into consideration... During this period I set up xampp and made sure it was working as intended. For some weird reason it takes over a minute to write a 250kb html file into the xampp virtual disk. Its not that big of a problem right now but it will probably become annoying if I try to make small changes and test 
+
+I aidionally got someone online to sget a simple page woth
 
 1/22/2018
-Worked on creating a page with tables.
+Worked on trying create a page with tables. Set up a server with php and phpmyadmin but there were a bunch of errors. The php worked anyway.
 
 1/18/2018
-Went through the w3schools html tutorials by experimenting with another website.
+Went through some w3schools html tutorials by experimenting with a site template I recently used for a project.
 
 1/15/2018
+Not entirely sure but this is the first class for semester 2? We were briefed on the general differences in what we will be doing over the semester if we choose to learn html vs Oracle DB. I spent the rest of the class breezing through the w3schools html tutorials to differentiate what I do know vs what I do not really know so that I can focus on that next period.
+
+I needed to work on tables, blocks vs classes, css, javascript, layouts, responsive design, forms & inputs, graphics, and media.
+
+_______Semester_2________
+
+1/11/2018
+Continued working on organizing the Typhoon Claw google sheet database, this time focusing more on using a script to querey and display items as well as sign in/sign out.
+
+1/08/2018
+First class after the Christmas break, worked on organizing the Typhoon Claw inventory google sheet.
 
 12/28/2017
 
