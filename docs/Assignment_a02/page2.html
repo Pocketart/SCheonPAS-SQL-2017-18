@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 2 - Variables</title>
+		<!-- pop boxes -->
+		<script>
+			var num1 = parseInt(prompt("Enter a number:"));
+			localStorage.setItem("num1", num1);
+			var num2 = parseInt(prompt("Enter a 2nd number:"));
+			localStorage.setItem("num2", num2);
+			var variable3 = prompt("Enter your favorite class:");
+			localStorage.setItem("variable3", variable3);
+		</script>
+		
+	</head>
+	
+	<body>
+		<h1>Assignment 2 - Variables</h1>
+		<!-- Print sum of 2 numbers  -->
+		<script>
+			document.write(num1 + " + " + num2 +  " = " + (num1 + num2));
+		</script>
+		
+		<br>
+		<!-- Print second number and text -->
+		<script>
+			document.write(num2 + " + " + variable3 + " = " + (num2 + variable3));
+		</script>
+		
+		<br>
+		<a href="page3.html">Assignment 3</a>
+	</body>
+	
+</html>

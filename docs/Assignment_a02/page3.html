@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 3</title>
+		
+		<script>
+			var sum12 = parseInt(localStorage.getItem("num1")) + parseInt(localStorage.getItem("num2"));
+			// note* localstorage variables need to be re-parsed?
+			// retrieve data
+		</script>
+		
+	</head>
+	
+	<body>
+		<h1>Assignment 3</h1>
+		
+		<script>
+			if(sum12 < 0)
+				document.write("number is too low");
+			if(sum12 > 100)
+				document.write("number is too high");
+			if(sum12 >= 86 && sum12 <= 100)
+				document.write("great mark");
+			if(sum12 == 50 || sum12 == 60 || sum12 == 67)
+				document.write("just on edge");
+			document.write("<br>");
+			// number conditions
+			if(confirm("Is the total really " + sum12))
+				document.write("Math Confirmed");
+			else
+				document.write("Math Incorrect");
+			// check math
+		</script>
+		
+		<br>
+		
+		<a href="page4.html">Assign 4 - Loops</a>
+		
+	</body>
+	
+</html>
