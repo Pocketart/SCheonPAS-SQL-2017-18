@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assign 7 - Arrays</title>
+    </head>
+    <body>
+        <h1>Assign 7 - Arrays</h1>
+		
+        <script>
+			var foo = new Array;
+            for(var x = 0; x < 5; x++)
+				{
+					foo[x] = "text" + (x + 1);
+				    document.write(foo[x] + " ");
+				}
+
+
+            function click() {
+            	var input = prompt("Enter a new string to the list");
+				var string6;
+            	for(var x = 0; x < foo.length; x++) {
+            		if(input == foo[x]) {
+            			alert("This string already exists");
+					else if (input != foo[x])
+						string6 = input;
+            		}
+            	}
+            }
+        </script>
+		<br>
+        <img src="https://xenlife.com.au/wp-content/uploads/clickbait-1-1024x697.jpg" onclick="click()" alt="clickbait">
+        <br>
+		<a href="page8.html">Assign 8 - DOM</a>
+		
+    </body>
+</html>

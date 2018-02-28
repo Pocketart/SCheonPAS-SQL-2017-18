@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 6 - Math Functions</title>
+		
+		<script>
+			var number = Math.floor(Math.random() * 5 + 1);
+			do {
+				var input = parseInt(prompt("Guess a number (1~6)"));
+				
+				if(input == number)
+					alert("correct");
+				else if(input < number)
+					alert("guess higher");
+				else if(input > number)
+					alert("guess lower");
+			}
+			while(input != number);
+			
+		</script>
+	</head>
+	
+	<body>
+		<h1>Assignment 6 - Math Functions</h1>
+		<a href="page7.html">Assign 7 - DOM</a>
+	</body>
+	
+</html>
