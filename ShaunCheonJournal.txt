@@ -1,21 +1,37 @@
 MM/DD/YYYY (latest posts will be on top)
 
+2/29/2018
+We were told that everything on Github (assignments and journal) needs to be ready before the weekend. Today is also a field trip day. We will be picking a restaurant and we will create a database like Mr.Ting did on 2/08/2018.
+
+2/26/2018
+Had a period of class to catch up on Assignment 2.
+
+2/22/2018
+
+
+2/19/2018 - CNY BREAK
+
+2/15/2018 - CNY BREAK
+
+2/12/2018
+
+Worked on Assignment 2 + helped a little with packing the science lab materials.
+
 2/08/2018
-Field Trip.
+Field Trip. We looked at the "eggs wrap rice" restaurant's menu and Mr.Ting demonstrated creating a database on xml.
 
 2/05/2018
+Javascript- Looked at arrays, automatic type conversions, random number creation (no seed required), and looked at hod variables are handled using local storage so that it works across sites (but apparently limited to domain?). I also took a quick look at cookies.
 
 
 2/01/2018
-
+Javascript- Learned how to create popups in the browser using window.alert(). Unlike Java, Javascript does not require you to declare the variable type, which is somewhat convenient and confusing at the same time. I also looked over the syntax and so far it seems pretty similar to Java or C++, at least there wasn't any radical change. //comments /* */
 
 1/29/2018
-
+Going through the Javascript on W3 website. Learned how to replace images by swapping img source ids (document.getElementById().src), manipulating css (document.getElementById().style), hiding and showing html elements (document.getElementById().style.display), and printing out with document.write().
 
 1/25/2018
 Mr.Ting showed us how the design thinking data the school collected is being reorganized for the sake of effeciency. This is why we need to plan a database (or at least plan what data will be collected and how it will be used) before collecting the data. This applies on everything in general, much of what we do can be more effeciently done if planned properly; our school should take that into consideration... During this period I set up xampp and made sure it was working as intended. For some weird reason it takes over a minute to write a 250kb html file into the xampp virtual disk. Its not that big of a problem right now but it will probably become annoying if I try to make small changes and test 
-
-I aidionally got someone online to sget a simple page woth
 
 1/22/2018
 Worked on trying create a page with tables. Set up a server with php and phpmyadmin but there were a bunch of errors. The php code to display a simple form and display its results worked anyway.
