@@ -1,7 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 2/29/2018
-We were told that everything on Github (assignments and journal) needs to be ready before the weekend. Today is also a field trip day. We will be picking a restaurant and we will create a database like Mr.Ting did on 2/08/2018.
+We were told that everything on Github (assignments and journal) needs to be ready before the weekend. Today will also be a field trip day. We created an ER model for the restaurant we went to (16 zone).
 
 2/26/2018
 Had a period of class to catch up on Assignment 2.
@@ -14,15 +14,13 @@ Had a period of class to catch up on Assignment 2.
 2/15/2018 - CNY BREAK
 
 2/12/2018
-
 Worked on Assignment 2 + helped a little with packing the science lab materials.
 
 2/08/2018
-Field Trip. We looked at the "eggs wrap rice" restaurant's menu and Mr.Ting demonstrated creating a database on xml.
+This was a field trip day. We looked at the "eggs wrap rice" restaurant's menu and Mr.Ting demonstrated creating a database on xml.
 
 2/05/2018
-Javascript- Looked at arrays, automatic type conversions, random number creation (no seed required), and looked at hod variables are handled using local storage so that it works across sites (but apparently limited to domain?). I also took a quick look at cookies.
-
+Javascript- Looked at arrays, automatic type conversions, random number creation (no seed required), and looked at how variables are handled using local storage so that it works across sites (but apparently limited to domain?). I also took a quick look at cookies.
 
 2/01/2018
 Javascript- Learned how to create popups in the browser using window.alert(). Unlike Java, Javascript does not require you to declare the variable type, which is somewhat convenient and confusing at the same time. I also looked over the syntax and so far it seems pretty similar to Java or C++, at least there wasn't any radical change. //comments /* */
