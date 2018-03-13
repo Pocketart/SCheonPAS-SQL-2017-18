@@ -1,7 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 3/12/2018
-Mr.Ting decided that we will have the "not a quiz quiz" today.
+Mr.Ting decided that we will have the "not a quiz quiz test" today. We had to pass 2 easy questions and 1 hard question from testdome.com. Through the test + googling, I learned that in JS, "==" and "===" are different in that "===" checks the type as well as the value. I also learned about HTML5 semantics, which is basically replacing <div></div>s with more "modern" stuff like <article>, <figure>, <summary>, and <description> so that it makes the website easier to crawl accurately. 
 
 ----------------------------------------------------
 -------- No class because of moving "break" --------
