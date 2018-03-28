@@ -1,5 +1,23 @@
 MM/DD/YYYY (latest posts will be on top)
 
+3/29/2018
+inventory, Mr.Ting announces deadlines
+
+3/26/2018
+inventory
+
+3/22/2018
+Worked on assignment
+
+3/20/2018
+inventory
+
+3/17/2018 (Saturday mon schedule)
+Mr.Ting was sick, we worked on our assignment
+
+3/15/2018
+worked on assignment
+
 3/12/2018
 Mr.Ting decided that we will have the "not a quiz quiz test" today. We had to pass 2 easy questions and 1 hard question from testdome.com. Through the test + googling, I learned that in JS, "==" and "===" are different in that "===" checks the type as well as the value. I also learned about HTML5 semantics, which is basically replacing <div></div>s with more "modern" stuff like <article>, <figure>, <summary>, and <description> so that it makes the website easier to crawl accurately. From the hard question, I learned how to create a slider for a form input.
 
