@@ -3,9 +3,10 @@ MM/DD/YYYY (latest posts will be on top)
 5/10/2018
 
 5/07/2018
+Honestly speaking, I used this block to catch up on assignments for my other classes.
 
 5/03/2018
-Chemistry inventory site design.
+Chemistry inventory site design. The design had to be somewhat realistic to the actual physical location of the chemicals in the shelf in the storage room. Yet it has to be mobile friendly. I am thinking that I can make a table with multiple layers of depth that would be represented through pages. On mobile, the abbreviation of the chemicals would be shown on each cell, and on tap, the full name would be displayed.
 
 4/30/2018
 Attempted to get the website connected to the database through php. From my research, I had to use php code to pint out tables in a loop to display the results. This was somewhat confusing because using the default table printing style, the tables were very ugly but I wanted to format them. I also found out that it is better to let a separate page handle incoming php requests, so I created a new page called query.php and it would be called from the main page as query.php?q=. The character 'q' would be used for verification purposes to check if certain requirements were met.
