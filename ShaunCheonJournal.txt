@@ -1,6 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 5/10/2018
+today
 
 5/07/2018
 Honestly speaking, I used this block to catch up on assignments for my other classes.
@@ -29,6 +30,7 @@ Designed the layouts of the pages that we should have on the inventory website. 
 4/05/2018
 
 4/02/2018
+inventory, cleaning data
 
 3/29/2018
 inventory, Mr.Ting announces deadlines
