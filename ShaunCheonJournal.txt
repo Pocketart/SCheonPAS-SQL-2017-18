@@ -5,14 +5,19 @@ MM/DD/YYYY (latest posts will be on top)
 5/07/2018
 
 5/03/2018
+Chemistry inventory site design.
 
 4/30/2018
+Attempted to get the website connected to the database through php. From my research, I had to use php code to pint out tables in a loop to display the results. This was somewhat confusing because using the default table printing style, the tables were very ugly but I wanted to format them. I also found out that it is better to let a separate page handle incoming php requests, so I created a new page called query.php and it would be called from the main page as query.php?q=. The character 'q' would be used for verification purposes to check if certain requirements were met.
 
 4/26/2018
+Added buttons for each science category: Chemistry, Physics, General, Bio, Elementary, and Misc. Since the website has to be mobile friendly too, I changed all the fonts so that it is auto scaling based on the pixel availability on the device. Since the buttons with text were too big for mobile, I replaced the text with icons representative of each category. On mobile, these icons would show up, and when tapped the text description shows up. On desktop, the text descriptions show up on hover.
 
 4/23/2018
+Created of the PAS Science Inventory repository (https://github.com/PAS-Programming/adsfasdfa) and created a basic index page with a title and a search bar. Buttons for separate categories and the results page still haven't been added yet.
 
 4/19/2018
+Designed the layouts of the pages that we should have on the inventory website. Log in, search, and search results pages were made using Adobe XD so that I can easily get people to test it and provide suggestions.
 
 4/16/2018
 
