@@ -1,7 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 5/10/2018
-today
+Created the main table for results to be printed out through php. Used a table template and slightly modified it to fit our data. I was able to use a bunch of echo statements to print our the html code to be executed in the browser, that included styling and javascript. Right now it lists a bunch of data from a select all statement. Next, I will take whatever the user enters in the search bar and let query.php handle it.
 
 5/07/2018
 Honestly speaking, I used this block to catch up on assignments for my other classes.
