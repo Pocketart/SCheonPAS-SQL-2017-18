@@ -1,6 +1,10 @@
 MM/DD/YYYY (latest posts will be on top)
 
-5/16/2018 - Irregular Thursday schedule on a Wendesday. Darren was doing APs. This period was spent explaining the structure of the inventory website to Daniel and Jim and how and why most of the stuff in there is like it is right now.
+5/21/2018
+today
+
+5/16/2018 - (Thursday schedule)
+Darren was doing APs. This period was spent explaining the structure of the inventory website to Daniel and Jim and how and why most of the stuff in there is like it is right now.
 
 5/14/2018
 I was 'ill' so I didn't come but i added a function that lets the user search in a particular category. For example, clicking "Chemistry" and then searching for "book" will display only books related to chemistry. This was done by using php to print text to the address bar when the button gets clicked, and then making search.php read the extra text from the address bar and then treat it as a different kind of query.
