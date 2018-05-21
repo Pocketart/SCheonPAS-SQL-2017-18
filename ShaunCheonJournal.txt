@@ -1,7 +1,7 @@
 MM/DD/YYYY (latest posts will be on top)
 
 5/21/2018
-Deadlines announced. 20Questions test on 5/24. Inventory project is due 5/30 9am. Don't use pure colors red, green, blue, black, white. Light should come from top to bottom. We need to get a better color scheme.
+Deadlines announced. 20Questions zendphp test on 5/24. Inventory project is due 5/30 9am. Don't use pure colors red, green, blue, black, white. Light should come from top to bottom. We need to get a better color scheme.
 
 I wanted to work this period but I spent most of my time making sure Daniel doesn't overwrite the pages I am (was) currently working on (especially since he doesn't want to back up frequently on github before uploading to the server) and discussing whether we should have a separate admin page or not. I will be changing the buttons on the landing page into dropdown menus starting from today whenever I get time to do so.
 
