@@ -1,9 +1,9 @@
 MM/DD/YYYY (latest posts will be on top)
 
-5/16/2018 - irregular thursday schedule on a wendesday
+5/16/2018 - Irregular Thursday schedule on a Wendesday. Darren was doing APs. This period was spent explaining the structure of the inventory website to Daniel and Jim and how and why most of the stuff in there is like it is right now.
 
 5/14/2018
-I was 'ill' so I didn't come but i added a function that lets the user search in a particular category
+I was 'ill' so I didn't come but i added a function that lets the user search in a particular category. For example, clicking "Chemistry" and then searching for "book" will display only books related to chemistry. This was done by using php to print text to the address bar when the button gets clicked, and then making search.php read the extra text from the address bar and then treat it as a different kind of query.
 
 5/10/2018
 Created the main table for results to be printed out through php. Used a table template and slightly modified it to fit our data. I was able to use a bunch of echo statements to print our the html code to be executed in the browser, that included styling and javascript. Right now it lists a bunch of data from a select all statement. Next, I will take whatever the user enters in the search bar and let query.php handle it.
