@@ -9,7 +9,7 @@ I was 'ill' so I didn't come but i added a function that lets the user search in
 Created the main table for results to be printed out through php. Used a table template and slightly modified it to fit our data. I was able to use a bunch of echo statements to print our the html code to be executed in the browser, that included styling and javascript. Right now it lists a bunch of data from a select all statement. Next, I will take whatever the user enters in the search bar and let query.php handle it.
 
 5/07/2018
-Honestly speaking, I used this block to catch up on assignments for my other classes.
+I used this block to catch up on assignments for my other classes.
 
 5/03/2018
 Chemistry inventory site design. The design had to be somewhat realistic to the actual physical location of the chemicals in the shelf in the storage room. Yet it has to be mobile friendly. I am thinking that I can make a table with multiple layers of depth that would be represented through pages. On mobile, the abbreviation of the chemicals would be shown on each cell, and on tap, the full name would be displayed.
@@ -27,12 +27,16 @@ Created of the PAS Science Inventory repository (https://github.com/PAS-Programm
 Designed the layouts of the pages that we should have on the inventory website. Log in, search, and search results pages were made using Adobe XD so that I can easily get people to test it and provide suggestions.
 
 4/16/2018
+``
 
 4/12/2018
+``
 
 4/09/2018
+``
 
 4/05/2018
+``
 
 4/02/2018
 inventory, cleaning data
